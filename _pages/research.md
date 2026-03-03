@@ -5,9 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-This is your custom research page. You can list your publications, projects, and other research-related information
-here.
-
 ## Working Papers
 
 **Doing Online Fieldwork on Social Media Platforms in the Arab World: Challenges and Mitigating Strategies (R&R at
