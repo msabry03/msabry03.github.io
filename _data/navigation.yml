@@ -9,10 +9,10 @@
 
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/mohamed_sabry_amer_cv.pdf
