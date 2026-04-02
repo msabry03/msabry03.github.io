@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Research"
+title: "Research | Mohamed Sabry Amer"
+excerpt: "Academic research by Mohamed Sabry Amer on social media, political behavior, and MENA region government interventions."
 permalink: /research/
 author_profile: true
 ---

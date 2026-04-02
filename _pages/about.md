@@ -1,5 +1,7 @@
 ---
 permalink: /
+title: "Mohamed Sabry Amer | Political Science PhD Student"
+excerpt: "Mohamed Sabry Amer is an incoming PhD student in Political Science at Washington University in St. Louis focusing on government intervention in social media in the MENA region."
 author_profile: true
 redirect_from: 
   - /about/
